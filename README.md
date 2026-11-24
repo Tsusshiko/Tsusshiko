@@ -8,6 +8,7 @@
 - **Hierarchical FSM Framework (C++):** Designing and implementing new functionalities into a Finite State Machine framework, introducing hierarchical states to model complex software systems.
 
 ### Academic projects developed throughout both Bachelor's and Master's
+
 | Repo | Domain | Stack | Description |
 | :--- | :--- | :--- | :--- |
 | **[VR](https://github.com/Tsusshiko/VR)** *(Network Virtualization)* | Programmable Data Planes | `P4`, `p4c`, `BMv2`, `Python` | Custom tunneling, IP hashing, and label-stack source routing validated on a BMv2 software switch. |
@@ -26,3 +27,6 @@
 * **Tools & Environments:** `p4c`, `BMv2`, `CORE`, `EVE-NG`, `GNS3`, `CupCarbon`, `Eclipse Mosaic`, `netem`, `NetSim`, `Wireshark`, `Docker`, `Alpine Linux`, `Jupyter Notebook`, `Lex/Yacc`, `mCRL2`, `PySMT`
 
 ### Contacts
+
+Email: 
+LinkedIn:
