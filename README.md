@@ -8,16 +8,16 @@
 - **Hierarchical FSM Framework (C++):** Designing and implementing new functionalities into a Finite State Machine framework, introducing hierarchical states to model complex software systems.
 
 ### Academic projects developed throughout both Bachelor's and Master's
-| Repository | Domain | Tech Stack | Description |
+| Repo | Domain | Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **[VR](https://github.com)** | Programmable Data Planes | `P4`, `BMv2`, `Python` | P4 data plane implementation for network virtualization, custom tunneling, IP hashing, and label switching. |
-| **[RAN](https://github.com)** | Core & Access Networks | `CORE`, `EVE-NG`, `MPLS`, `OSPF` | Emulation and performance evaluation of MPLS Traffic Engineering, OSPF routing, and QoS under constrained links. |
-| **[ESRT](https://github.com)** / **[PITI](https://github.com)** | IoT & Network Emulation | `Python`, `GNS3`, `Docker`, `MQTT` | End-to-end network emulation bridging wireless sensor simulations (Cupcarbon) with containerized telemetry backends. |
-| **[GR](https://github.com)** | Network Management | `Java`, `UDP` | Custom multithreaded L-SNMP Manager and Agent architecture using TLV encoding/decoding over UDP sockets. |
-| **[RV](https://github.com)** | Vehicular Networks | `Java`, `Eclipse Mosaic` | Simulation and communication protocol logic for vehicular ad-hoc networks (VANETs). |
-| **[SRAM](https://github.com)** | Multimedia & Networking | `C++` | Low-level network application services and real-time multimedia streaming architectures. |
-| **[PC](https://github.com)** | Concurrent Systems | `Erlang`, `Java` | Distributed, fault-tolerant multiplayer game server built on the Actor model and multithreaded TCP sockets. |
-| **[PLC](https://github.com)** / **[IC](https://github.com)** | Compilers & Formal Methods | `Python`, `Lex/Yacc`, `mCRL2` | Custom imperative language compiler targeting Assembly, alongside formal model checking and reactive system verification. |
+| **[VR](https://github.com/Tsusshiko/VR)** *(Network Virtualization)* | Programmable Data Planes | `P4`, `p4c`, `BMv2`, `Python` | Custom tunneling, IP hashing, and label-stack source routing validated on a BMv2 software switch. |
+| **[RAN](https://github.com/Tsusshiko/RAN)** *(Core & Access Networks)* | Routing, MPLS & QoS | `CORE`, `EVE-NG`, `MPLS`, `OSPF`, `netem` | MPLS Traffic Engineering, OSPF routing, and QoS traffic shaping under constrained link conditions. |
+| **[ESRT](https://github.com/Tsusshiko/ESRT)** / **[PITI](https://github.com/Tsusshiko/PITI)** | IoT & Network Emulation | `Python`, `GNS3`, `Docker`, `MQTT`, `CupCarbon` | End-to-end telemetry pipeline linking wireless sensor simulations to containerized backends and dashboards. |
+| **[GR](https://github.com/Tsusshiko/GR)** *(Network Management)* | Management Protocols & Concurrency | `Java`, `UDP`, `TLV` | Multithreaded L-SNMP manager and agent with TLV encoding/decoding and read/write lock synchronization. |
+| **[RV](https://github.com/Tsusshiko/RV)** *(Vehicular Networks)* | VANET Simulation | `Java`, `Eclipse Mosaic` | Vehicular ad-hoc network simulation and communication protocol logic. |
+| **[SRAM](https://github.com/Tsusshiko/SRAM)** | Systems & Multimedia Networking | `C++` | Low-level network services and real-time multimedia streaming components. |
+| **[PC](https://github.com/Tsusshiko/PC)** *(Concurrent Systems)* | Distributed & Concurrent Systems | `Erlang`, `Java`, `TCP` | Multiplayer game server using Erlang's Actor model over TCP with a multithreaded Java GUI client. |
+| **[PLC](https://github.com/Tsusshiko/PLC)** / **[IC](https://github.com/Tsusshiko/IC)** | Compilers & Formal Methods | `Python`, `Lex/Yacc`, `mCRL2`, `PySMT` | Imperative-to-Assembly compiler plus model checking, hybrid automata verification, and k-induction proofs. |
 
 ### Technical Skills
 
