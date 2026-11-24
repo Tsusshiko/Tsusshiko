@@ -15,7 +15,6 @@
 | **[ESRT](https://github.com/Tsusshiko/ESRT)** / **[PITI](https://github.com/Tsusshiko/PITI)** | IoT & Network Emulation | `Python`, `GNS3`, `Docker`, `MQTT`, `CupCarbon` | End-to-end telemetry pipeline linking wireless sensor simulations to containerized backends and dashboards. |
 | **[GR](https://github.com/Tsusshiko/GR)** *(Network Management)* | Management Protocols & Concurrency | `Java`, `UDP`, `TLV` | Multithreaded L-SNMP manager and agent with TLV encoding/decoding and read/write lock synchronization. |
 | **[RV](https://github.com/Tsusshiko/RV)** *(Vehicular Networks)* | VANET Simulation | `Java`, `Eclipse Mosaic` | Vehicular ad-hoc network simulation and communication protocol logic. |
-| **[SRAM](https://github.com/Tsusshiko/SRAM)** | Systems & Multimedia Networking | `C++` | Low-level network services and real-time multimedia streaming components. |
 | **[PC](https://github.com/Tsusshiko/PC)** *(Concurrent Systems)* | Distributed & Concurrent Systems | `Erlang`, `Java`, `TCP` | Multiplayer game server using Erlang's Actor model over TCP with a multithreaded Java GUI client. |
 | **[PLC](https://github.com/Tsusshiko/PLC)** / **[IC](https://github.com/Tsusshiko/IC)** | Compilers & Formal Methods | `Python`, `Lex/Yacc`, `mCRL2`, `PySMT` | Imperative-to-Assembly compiler plus model checking, hybrid automata verification, and k-induction proofs. |
 
