@@ -20,9 +20,9 @@
 
 ### Technical Skills
 
-* **Languages:** `C++`, `Python`, `P4`, `C`, `Java`, `Erlang`, `Haskell`, `SQL`[cite: 1]
-* **Networking & Telecom:** Network Virtualization, MPLS (RSVP-TE, LDP), OSPF, QoS, TCP/IP, MQTT, SDN, Network Security, Traffic Analysis[cite: 1]
-* **CS & Systems Concepts:** Finite State Machines (FSM), Automata Theory, Formal Verification, Model Checking, Compiler Design, Concurrent Programming, Algorithms & Complexity, Databases[cite: 1]
+* **Languages:** `C++`, `Python`, `P4`, `C`, `Java`, `Erlang`, `Haskell`, `SQL`
+* **Networking & Telecom:** Network Virtualization, MPLS (RSVP-TE, LDP), OSPF, QoS, TCP/IP, MQTT, SDN, Network Security, Traffic Analysis
+* **CS & Systems Concepts:** Finite State Machines (FSM), Automata Theory, Formal Verification, Model Checking, Compiler Design, Concurrent Programming, Algorithms & Complexity, Databases
 * **Tools & Environments:** `p4c`, `BMv2`, `CORE`, `EVE-NG`, `GNS3`, `CupCarbon`, `Eclipse Mosaic`, `netem`, `NetSim`, `Wireshark`, `Docker`, `Alpine Linux`, `Jupyter Notebook`, `Lex/Yacc`, `mCRL2`, `PySMT`
 
 ### Contacts
