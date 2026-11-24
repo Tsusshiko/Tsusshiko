@@ -28,5 +28,5 @@
 
 ### Contacts
 
-Email: 
-LinkedIn:
+* **Email:**
+* **LinkedIn:**
